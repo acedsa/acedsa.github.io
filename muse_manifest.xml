@@ -1,0 +1,142 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="acedsa.github.io" resolutions="1x" timestamp="1525691122499">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="452360581" ref="index"/>
+    <file name="nomq_preview_master_______-a.css" crc="3824530138" ref="index"/>
+    <file name="index.css" crc="3888936371" ref="index"/>
+    <file name="nomq_index.css" crc="3824530138" ref="index"/>
+    <file name="spasibo-za-zaiavku.css" crc="3878277916" ref="spasibo-za-zaiavku"/>
+    <file name="nomq_spasibo-za-zaiavku.css" crc="399757705" ref="spasibo-za-zaiavku"/>
+  </folder>
+  <folder name="assets">
+    <file name="deal.png" crc="3769294281" seo="true" mt="1524565524000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:spasibo-za-zaiavku"/>
+    <file name="museutils.js" crc="340535759" ref="index:spasibo-za-zaiavku"/>
+    <file name="whatinput.js" crc="86476730" ref="index:spasibo-za-zaiavku"/>
+    <file name="museconfig.js" crc="310584261" ref="index:spasibo-za-zaiavku"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:spasibo-za-zaiavku"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u192.php" crc="278564297" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="form-u1146.php" crc="478368404" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:spasibo-za-zaiavku"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="spasibo-za-zaiavku"/>
+  </folder>
+  <folder name="images">
+    <file name="домашняя-favicon.ico" crc="160376623" ref="index"/>
+    <file name="kapremont.png" crc="4098150791" seo="true" ref="index:spasibo-za-zaiavku">
+      <caption webpage="index" alt=""/>
+      <caption webpage="spasibo-za-zaiavku" alt=""/>
+      <caption webpage="spasibo-za-zaiavku" alt=""/>
+    </file>
+    <file name="phone-call-crop-u104.png" crc="4275102574" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="180816-2-crop-u264.jpg" crc="4017130883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-высокое-качество-80.png" crc="20539685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-синхронизировать-80.png" crc="3820540626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-expensive-price-80.png" crc="171615478" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-checked-80.png" crc="32166548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cosmetic-2-crop-u522.jpg" crc="402722376" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bproduct_19-crop-u524.jpg" crc="4137005198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-90-1024x630-crop-u516.jpg" crc="4215402165" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d0bcd18b-d0bfd180d0b5d0b4d0bbd0b0d0b3d0b0d0b5d0bc-d180d0b5d0bcd0bed0bdd182-d0bad0b2d0b0d180d182d0b8d180-with-regard-to-d0bad180d0b0d181d0b8-crop-u512.jpg" crc="521883559" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5a22ee92fe86a63b95c3521503d13890-crop-u518.jpg" crc="195151451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="file2-14684-crop-u526.jpg" crc="4023567875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13-crop-u520.jpg" crc="4082757479" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="remont-v-bolshoj-kvartire-moskva-crop-u884.jpg" crc="180827725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21-crop-u514.jpg" crc="3902703939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="56d03408f3dd4-5-crop-u918.jpg" crc="3816390975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back.png" crc="3915342804" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cosmetic-2-crop-u495.jpg" crc="261143685" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:spasibo-za-zaiavku"/>
+    <file name="2-90-1024x630-crop-u503.jpg" crc="3783202333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5a22ee92fe86a63b95c3521503d13890-crop-u499.jpg" crc="29445814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="13-crop-u505.jpg" crc="516935149" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="21-crop-u501.jpg" crc="327747832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bproduct_19-crop-u507.jpg" crc="4075752032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d0bcd18b-d0bfd180d0b5d0b4d0bbd0b0d0b3d0b0d0b5d0bc-d180d0b5d0bcd0bed0bdd182-d0bad0b2d0b0d180d182d0b8d180-with-regard-to-d0bad180d0b0d181d0b8-crop-u509.jpg" crc="3996164843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="file2-14684-crop-u497.jpg" crc="3768848507" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="remont-v-bolshoj-kvartire-moskva-crop-u875.jpg" crc="4086736784" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="56d03408f3dd4-5-crop-u909.jpg" crc="180388075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="next.png" crc="4235653924" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="montagnik.png" crc="3873781171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone-call.png" crc="352863783" seo="true" ref="spasibo-za-zaiavku">
+      <caption webpage="spasibo-za-zaiavku" alt=""/>
+      <caption webpage="spasibo-za-zaiavku" alt=""/>
+    </file>
+    <file name="180816-2-crop-u1402.jpg" crc="485678220" seo="true" ref="spasibo-za-zaiavku">
+      <caption webpage="spasibo-za-zaiavku" alt=""/>
+    </file>
+    <file name="180816-2-crop-u14022.jpg" crc="3975862426" seo="true" ref="spasibo-za-zaiavku">
+      <caption webpage="spasibo-za-zaiavku" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="59384956" seo="true" mt="1525690834771" redirect="true"/>
+  <file name="spasibo-za-zaiavku.html" crc="3933457022" seo="true" mt="1524205633530" redirect="true"/>
+</manifest>
